@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushstha1&label=Profile%20views&color=0e75b6&style=flat" alt="aayushstha1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushstha1" alt="aayushstha1" /></a> </p>
-
 - 🌱 I’m currently learning **BCA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aayushstha1](https://github.com/Aayushstha1)

@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Shrestha</h1>
 <h3 align="center">A passionate Software Developer From Nepal</h3>
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Aayushstha1/Aayushstha1/assets/128682092/18fe8291-9c8b-4d01-97d1-2dad3743977a)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushstha1&label=Profile%20views&color=0e75b6&style=flat" alt="aayushstha1" /> </p>
 

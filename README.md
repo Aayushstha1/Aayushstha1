@@ -1,7 +1,7 @@
 ![logo](https://github.com/Nishan-Pradhan06/Nishan-Pradhan06/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Aayush Shrestha</h1>
 <h3 align="center">A passionate Software Developer From Nepal</h3>
-<img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.FgKybAXueBIGldWSpouJEgHaFj?rs=1&pid=ImgDetMain">
+<img align="right" alt="coding" width="400" src="https://i.imgur.com/Yr32yur.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushstha1&label=Profile%20views&color=0e75b6&style=flat" alt="aayushstha1" /> </p>

@@ -1,4 +1,16 @@
 ![logo](https://github.com/Nishan-Pradhan06/Nishan-Pradhan06/blob/main/banner.png)
+
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Aayush+stha!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=I'm+Aayush+stha!">
+    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+  </picture>
+</h1>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Aayush Shrestha</h1>
 <h3 align="center">A passionate Software Developer From Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/Yr32yur.gif">

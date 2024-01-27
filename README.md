@@ -1,5 +1,4 @@
-![logo](https//:![hello](https://github.com/Aayushstha1/Aayushstha1/assets/128682092/5a24c84a-dc8b-4484-a50d-9d130bd2db28)
-)
+
 
 <h1>
   <picture>

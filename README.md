@@ -7,7 +7,6 @@
   </picture>
 </h1>
 
-
 <img align="right" alt="coding" width="400" src="https://i.imgur.com/Yr32yur.gif">
 
 

@@ -1,8 +1,8 @@
 ![logo](https://github.com/Aayushstha1/Aayushstha1/blob/main/hello.png)
 <h1>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=I'm+Aayush+stha!">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=I'm+Aayush+stha!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=FFFFFF&background=301B5D00&vCenter=true&width=435&lines=It's+me+Aayush+stha!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=000000&background=301B5D00&vCenter=true&width=435&lines=It's+me+Aayush+stha!">
     <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
   </picture>
 </h1>

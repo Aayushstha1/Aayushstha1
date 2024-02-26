@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushstha1&label=Profile%20views&color=0e75b6&style=flat" alt="aayushstha1" /> </p>
 
-- 🌱 I’m currently learning *Python*
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aayushstha1](https://github.com/Aayushstha1)
 

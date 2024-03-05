@@ -43,6 +43,11 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aayushstha1&" alt="Aayushstha1" /></p> 
+
+
+
+
 
 
 
